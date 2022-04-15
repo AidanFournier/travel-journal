@@ -67,7 +67,6 @@ nav > h3 {
 
 .info-location > p {
   font-size: 12px;
-  letter-spacing: 17%;
 }
 
 .title {
@@ -84,6 +83,7 @@ nav > h3 {
   text-transform: uppercase;
   margin-right: 14px;
   font-weight: 200;
+  letter-spacing: 4px;
 }
 
 .map-link {
